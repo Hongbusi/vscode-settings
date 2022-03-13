@@ -2,7 +2,6 @@
   "editor.cursorSmoothCaretAnimation": true,
   "editor.fontSize": 12,
   "editor.guides.bracketPairs": "active",
-  "editor.multiCursorModifier": "ctrlCmd",
   "editor.renderWhitespace": "boundary",
   "editor.suggestSelection": "recentlyUsed",
   "editor.tabSize": 2,
