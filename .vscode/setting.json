@@ -44,6 +44,5 @@
   "debug.onTaskErrors": "debugAnyway",
   "diffEditor.ignoreTrimWhitespace": false,
   "editor.snippetSuggestions": "top",
-  "workbench.iconTheme": "vscode-icons-mac",
   "workbench.colorTheme": "Default Dark+"
 }
