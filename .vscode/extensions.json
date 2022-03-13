@@ -1,7 +1,28 @@
 {
   "recommendations": [
+    // own extension 
     "hongbusi.custom-snippets",
+
+    // code guide
     "EditorConfig.EditorConfig",
+    "dbaeumer.vscode-eslint",
+    "streetsidesoftware.code-spell-checker",
+     "johnsoncodehk.volar",
+    "johnsoncodehk.vscode-typescript-vue-plugin",
+    
+    // git
+    "eamodio.gitlens",
+    
+    // utils
+    "alefragnani.bookmarks",
+    "ritwickdey.liveserver",
+    "jasonnutter.search-node-modules",
+   
+    // other
     "WakaTime.vscode-wakatime",
+    "alefragnani.project-manager",
+
+    // theme
+    "team.vscode-icons"
   ]
 }
