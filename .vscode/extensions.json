@@ -14,9 +14,9 @@
     "eamodio.gitlens",
     
     // utils
+    "mikestead.dotenv",
     "alefragnani.bookmarks",
     "ritwickdey.liveserver",
-    "jasonnutter.search-node-modules",
     "WakaTime.vscode-wakatime",
 
     // theme
