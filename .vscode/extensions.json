@@ -7,17 +7,20 @@
     "EditorConfig.EditorConfig",
     "dbaeumer.vscode-eslint",
     "streetsidesoftware.code-spell-checker",
-     "johnsoncodehk.volar",
+    "johnsoncodehk.volar",
     "johnsoncodehk.vscode-typescript-vue-plugin",
     
     // git
     "eamodio.gitlens",
+    "github.copilot",
     
     // utils
     "mikestead.dotenv",
     "alefragnani.bookmarks",
     "ritwickdey.liveserver",
     "WakaTime.vscode-wakatime",
+    "alefragnani.project-manager",
+    "mikestead.dotenv",
 
     // theme
     "team.vscode-icons"
