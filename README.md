@@ -1,8 +1,8 @@
 <samp><b>Hongbusi's VS Code Settings</b></samp>
 
-- [`.vscode/setting.json`](./.vscode/setting.json)
+[`.vscode/setting.json`](./.vscode/setting.json)
 
-- [`.vscode/extensions.json`](./.vscode/extensions.json)
+[`.vscode/extensions.json`](./.vscode/extensions.json)
 
 ## Other Setting
 
