@@ -2,7 +2,7 @@
 
 [`.vscode/setting.json`](./.vscode/setting.json)
 
-[`.vscode/extensions.json`](./vscode/extensions.json)
+[`.vscode/extensions.json`](./.vscode/extensions.json)
 
 ## VS Code Default Setting
 
