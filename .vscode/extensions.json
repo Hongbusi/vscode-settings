@@ -13,6 +13,7 @@
     // git
     "eamodio.gitlens",
     "github.copilot",
+    "github.vscode-pull-request-github",
     
     // utils
     "mikestead.dotenv",
@@ -21,6 +22,8 @@
     "WakaTime.vscode-wakatime",
     "alefragnani.project-manager",
     "mikestead.dotenv",
+    "bradlc.vscode-tailwindcss",
+    "antfu.unocss",
 
     // theme
     "team.vscode-icons"
