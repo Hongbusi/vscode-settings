@@ -15,7 +15,15 @@
     "github.copilot",
     "github.vscode-pull-request-github",
     
+    // test
+    "orta.vscode-jest",
+    "firsttris.vscode-jest-runner",
+    "andys8.jest-snippets",
+    "zixuanchen.vitest-explorer",
+    
     // utils
+    "vscodevim.vim",
+    "formulahendry.auto-rename-tag",
     "mikestead.dotenv",
     "alefragnani.bookmarks",
     "ritwickdey.liveserver",
@@ -24,6 +32,7 @@
     "mikestead.dotenv",
     "bradlc.vscode-tailwindcss",
     "antfu.unocss",
+    "usernamehw.errorlens",
 
     // theme
     "team.vscode-icons"
