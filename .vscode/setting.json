@@ -10,6 +10,7 @@
     "source.fixAll.eslint": true,
     "source.organizeImports": false
   },
+  "editor.experimental.stickyScroll.enabled": true,
   "explorer.confirmDelete": false,
   "explorer.confirmDragAndDrop": false,
   "window.autoDetectColorScheme": true,
