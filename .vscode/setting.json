@@ -46,8 +46,6 @@
   "diffEditor.ignoreTrimWhitespace": false,
   "editor.snippetSuggestions": "top",
   "workbench.colorTheme": "Default Dark+",
-  
-  // vim
   "vim.normalModeKeyBindings": [
     {
       "before": ["H"],
